@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/8w7xfmyfyyifcy0q?svg=true)](https://ci.appveyor.com/project/asloba/patterns-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/u7diqnae4de7pwoi?svg=true)](https://ci.appveyor.com/project/asloba/aqa-2-4-bdd)
